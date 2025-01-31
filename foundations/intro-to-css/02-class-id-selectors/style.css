@@ -1,0 +1,16 @@
+.oddnumber{
+    background-color: #ef8282;
+    font-family: "Verdana","DejaVu Sans",sans-serif;
+}
+#seacond-element{
+    color: #356af7;
+    font-size: 36px;
+}
+.oddnumber.size{
+    font-size: 24px;
+}
+#forth-element{
+    background-color: #7df270;
+    font-size: 24px;
+    font-weight: bold;
+}
